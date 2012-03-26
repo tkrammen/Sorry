@@ -10,7 +10,7 @@ import java.util.*;
 This class will implement the drawPile, discard Pile,
 and related functions for use in the Sorry! boardgame.
 */
-//Test Test
+
 public class SRDeck {
 
 	public ArrayList<SRCard> drawPile;
